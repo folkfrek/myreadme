@@ -4,7 +4,7 @@
 ```Golang
 
 func main() {
-    myBio := Bio{
+    myBio := Bio {
         name: "Kyle",
         pastEducation: "BA in Economics from Stony Brook University",
         currentEducation: "BS in Computer Science from Oregon State",
@@ -12,6 +12,7 @@ func main() {
         seeking: "Fulltime software engineer roles - willing to start before graduation date",
         skills: "Go, Python, JavaScript, React, Flask",
         hobbies: "Brazilian Jiu Jitsu, Wresting, Volunteering"
+   }
 }
 ```
 
